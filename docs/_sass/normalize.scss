@@ -200,8 +200,23 @@ svg:not(:root) {
  * Address margin not present in IE 8/9 and Safari.
  */
 
+// figure {
+//   margin: 1em 40px;
+// }
+
 figure {
-  margin: 1em 40px;
+  display: inline-block;
+  // border: 1px dotted gray;
+  margin: 20px; /* adjust as needed */
+}
+figure img {
+  vertical-align: top;
+}
+figure figcaption {
+  // border: 1px dotted blue;
+  text-align: center;
+  font-size: 80%;
+  font-weight: bold;
 }
 
 /**

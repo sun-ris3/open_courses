@@ -5,7 +5,7 @@ layout: default
 ML is developing fast especially given the recent advances in GPT. However, the security of ML has long been overlooked. This course aims to provide **reading tutorials** and **hands-on labs** to describe and practice **attacks** targeting ML and possible **defense** solutions. 
 
 
-We would like to thank the following students in helping prepare materials and make this course possible:
+We would like to thank the following students in helping prepare materials and make this course possible: Qiming Guo, Tushar Nayan, and so on.
 
 
 <!-- 
